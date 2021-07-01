@@ -1,0 +1,33 @@
+baseURL: https://graphlab.netlify.app/
+languageCode: fr-FR
+title: GraphLab
+theme: xmin
+
+params:
+  description: "Équipe de recherche"
+  keywords:
+    - graphe
+    - document
+    - donnée
+    - corpus
+    - visualisation
+    - publication
+    - web
+  authors:
+    - Arthur Perret
+
+menu:
+  main:
+    - name: Blog
+      url: "blog/"
+      weight: 1
+    - name: À propos
+      url: "a-propos/"
+      weight: 2
+  footer:
+    - name: GitHub
+      url: "https://github.com/graphlab-fr/"
+      weight: 1
+    - name: Contact
+      url: "contact/"
+      weight: 2
