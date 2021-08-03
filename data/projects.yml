@@ -3,9 +3,9 @@
   github: "https://github.com/graphlab-fr/opensphere"
   description: "Cartographie relationnelle à partir de données tabulaires."
 - name: Cosma
-  website: "https://cosma.netlify.app/"
+  website: "https://cosma.graphlab.fr/"
   github: "https://github.com/graphlab-fr/cosma"
-  description: "Visualisation de graphe documentaire. Il permet d’enregistrer et représenter des fichiers Markdown interreliés sous la forme d’un réseau interactif dans un navigateur web."
+  description: "Visualisation de graphe documentaire : permet de représenter des fichiers Markdown interreliés sous la forme d’un réseau interactif dans un navigateur web."
 - name: GraphLab CMS
   website: "http://graphlab.myllaume.fr"
   github: "https://github.com/graphlab-fr/graphlab"
