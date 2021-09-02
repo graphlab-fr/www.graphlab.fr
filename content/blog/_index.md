@@ -3,4 +3,4 @@ title: Blog
 layout: blog
 ---
 
-🚧 En construction.
+🚧 En construction 🚧

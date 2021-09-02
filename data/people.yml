@@ -1,7 +1,7 @@
 - name: Clément Borel
   role: Enseignant-chercheur
   link: "https://mica.u-bordeaux-montaigne.fr/borel-clement/"
-  bio: "Maître de conférences en sciences de l’information et de la communication à l'Université Bordeaux Montaigne et chef du département Information-Communication de l’IUT Bordeaux Montaigne, Clément Borel étudie le traitement massif des corpus de textes pour enrichir leur lecture : relations hypertexte, data visualisation, etc."
+  bio: "Maître de conférences en sciences de l’information et de la communication à l'Université Bordeaux Montaigne et chef du département Information-Communication de l’IUT Bordeaux Montaigne, Clément Borel travaille sur la navigation dans les grands corpus textuels, les outils sémantiques au service du livre numérique et de la lecture critique, ainsi que la navigation sémantique dans les corpus d’images. Sa thèse, soutenue en 2014, était consacrée à la modélisation et à la visualisation des liens transtextuels dans le livre numérique."
 - name: Guillaume Brioudes
   role: Développeur
   link: "https://myllaume.fr"
@@ -13,7 +13,7 @@
 - name: Arthur Perret
   role: Doctorant
   link: "https://www.arthurperret.fr"
-  bio: "Ancien étudiant à l'ENSSIB, Arthur Perret travaille notamment sur les pratiques historiques de la documentation et la graphie des données. Depuis le 6 novembre 2017, il est doctorant à l'Université Bordeaux Montaigne et étudie l’héritage épistémologique de Paul Otlet dans le cadre d'une thèse co-dirigée par Olivier Le Deuff et Bertrand Müller. Il est actuellement ATER à l’IUT Bordeaux Montaigne."
+  bio: "Diplômé en information scientifique et technique ainsi qu’en édition numérique, Arthur Perret est doctorant en sciences de l'information et de la communication au sein du laboratoire MICA (Université Bordeaux Montaigne). Ses recherches sont consacrées aux données, documents et dispositifs impliqués dans les processus d’écriture, de documentation et d’édition. Sa thèse, co-dirigée par Olivier Le Deuff et Bertrand Müller, porte sur l’héritage épistémologique de Paul Otlet. Il est actuellement ATER à l’IUT Bordeaux Montaigne."
 - name: David Pucheu
   role: Enseignant-chercheur
   link: "https://mica.u-bordeaux-montaigne.fr/pucheu-david/"
