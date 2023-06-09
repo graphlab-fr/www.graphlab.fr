@@ -1,5 +1,4 @@
 - name: Opensphère
-  website: "https://github.com/graphlab-fr/opensphere"
   github: "https://github.com/graphlab-fr/opensphere"
   documentation: "https://graphlab-fr.github.io/opensphere/"
   description: "L’Opensphère est une architecture-modèle pour créer des cartographies relationnelles interactives à partir de données tabulaires. C’est la version générique et réutilisable de l’[Otletosphère](https://hyperotlet.huma-num.fr/otletosphere/), une cartographie du réseau de Paul Otlet."
@@ -7,12 +6,11 @@
     path: "https://hyperotlet.huma-num.fr/img/otletosphere-main-screenshot.png"
     title: "Capture d’écran de l’Otletosphère affichant Paul Otlet et ses relations"
 - name: Cosma
-  website: "https://cosma.graphlab.fr/"
+  website: "https://cosma.arthurperret.fr/"
   github: "https://github.com/graphlab-fr/cosma"
-  documentation: "https://graphlab-fr.github.io/cosma/fr.html"
   description: "Cosma est un logiciel de visualisation de graphe documentaire. Il permet de représenter des notes interreliées sous la forme d’un réseau interactif dans une interface web."
   img:
-    path: "https://cosma.graphlab.fr/img/screenshot-cosma.fr.png"
+    path: "https://cosma.arthurperret.fr/img/cosma-examples.png"
     title: "Capture d’écran de l’interface de Cosma"
 #- name: Labgraph
 #  website: "http://graphlab.myllaume.fr"

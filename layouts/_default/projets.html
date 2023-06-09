@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<main class="wrapper home">
+	{{ range $.Site.Data.projects }}
+	<div class="project">
+		<div class="project-metadata">
+			<h2>{{ .name | markdownify }}</h2>
+			<p>{{ .description | markdownify }}</p>
+			<p class="buttons">{{ if .website }}<a href="{{ .website }}">Site</a>{{ end }}{{ if .github }}<a href="{{ .github }}">GitHub</a>{{ end }}{{ if .documentation }}<a href="{{ .documentation }}">Documentation</a>{{ end }}</p>
+		</div>
+		<div class="project-img">
+			{{ if .img }}<a href="{{ .website }}" target="_blank"><img src="{{ .img.path }}" title="{{ .img.title }} – Cliquez pour afficher l'image en grand"></a>{{ end }}
+		</div>
+  </div>
+	{{ end }}
+	{{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}
